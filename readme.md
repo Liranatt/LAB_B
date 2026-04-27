@@ -1,6 +1,4 @@
-================================================================
-File: README.md
-================================================================
+
 # Systems Programming Lab B: Binary Analysis & Memory Management
 
 ## Overview
