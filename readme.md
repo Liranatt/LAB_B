@@ -47,9 +47,7 @@ To clean the compiled binaries:
 make clean
 
 
-================================================================
-File: Makefile
-================================================================
+
 CC=gcc
 CFLAGS=-Wall -Wextra -g -std=c11 -m32
 TARGETS=bubblesort hexaPrint virusDetector
